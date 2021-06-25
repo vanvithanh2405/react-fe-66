@@ -8,7 +8,11 @@ import './App.css';
 // import HandleEvent from './component/HandleEvent';
 // import RenderWithState from './RenderWithState/RenderWithState';
 // import BTChonXe from './RenderWithState/BTChonXe';
-import RenderWithMap from './RenderWithMap/RenderWithMap';
+// import RenderWithMap from './RenderWithMap/RenderWithMap';
+// import BaiTapLayoutBS4 from './component/BaiTapLayoutBS4/BaiTapLayoutBS4';
+// import DemoProps from './component/Props/DemoPro
+// import ProductList from './component/Props/ProductList';
+import DemoXemChiTiet from './component/Props/DemoXemChiTiet/DemoXemChiTiet';
 function App() { // component
   return (
     <div className="App">
@@ -18,7 +22,11 @@ function App() { // component
       {/* <HandleEvent></HandleEvent> */}
       {/* <RenderWithState></RenderWithState> */}
       {/* <BTChonXe></BTChonXe> */}
-      <RenderWithMap></RenderWithMap>
+      {/* <RenderWithMap></RenderWithMap> */}
+      {/* <BaiTapLayoutBS4></BaiTapLayoutBS4> */}
+      {/* <DemoProps></DemoProps> */}
+      {/* <ProductList></ProductList> */}
+      <DemoXemChiTiet></DemoXemChiTiet>
     </div>
   );
 }

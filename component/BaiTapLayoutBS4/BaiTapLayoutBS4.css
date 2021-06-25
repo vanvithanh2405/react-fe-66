@@ -1,0 +1,22 @@
+.banner-card .card{
+    border: none;
+}
+
+.banner-card .card-body{
+    padding: 100px 60px;
+}
+
+.banner-card .card-body p{
+    font-size: 1.5rem;
+}
+
+
+.banner-card .card-title{
+    font-weight: bold;
+}
+
+.banner-card .btn-Call{
+    margin: 0 430px;
+    padding: 10px 11px;
+    font-size: 20px;
+}
