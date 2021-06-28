@@ -20,3 +20,42 @@
     padding: 10px 11px;
     font-size: 20px;
 }
+
+
+
+.card-body{
+    position: relative;
+    padding: 3rem 1rem;
+}
+
+.icon{
+    width: 70px;
+    height: 70px;
+    border: 1px solid;
+    line-height: 50px;
+    position: absolute;
+    top: 0;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    border-radius: 14px;
+    background: #007bff;
+    color: white;
+}
+
+.icon i{
+    margin: 20px 20px;
+    font-size: 30px;
+}
+
+h4{
+    font-weight: bold;
+}
+
+.col-4 .card{
+    border: none;
+}
+
+.footer{
+    background-color: #000000db;
+    padding: 50px;
+}
